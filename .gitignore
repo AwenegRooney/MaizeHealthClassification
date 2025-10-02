@@ -1,5 +1,5 @@
 # Environment files
 .env
-
+agricvenv/
 # Jupyter notebook checkpoints
 *.ipynb_checkpoints/
